@@ -3,7 +3,7 @@ Feature: End-to-End Testing of the Internet Herokuapp
 	Given I open the homepage
 
   Scenario: Verify Home Page Title
-    
+
     Then I verify the page title is "The Internet"
 
   Scenario: Validate A/B Testing Page
